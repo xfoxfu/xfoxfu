@@ -1,4 +1,10 @@
-Hi 👋🏻
+Hi 👋🏻, I am Yuze FU (aka. `xfoxfu`, `coderfox`, `小傅Fox`).
+
+I am a Master's student at [Computer Software Group](https://www.csg.ci.i.u-tokyo.ac.jp/), [University of Tokyo](https://www.u-tokyo.ac.jp/). I am a beginner to _Programming Languages_ research.
+
+I occassionally write codes on my own interest.
+
+I love taking photos of city sceneries, cosplayers and figure models. Also, I love watching animes and reading SF / light novels.
 
 [![xfoxfu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfoxfu&show_icons=true&include_all_commits=true)](https://github.com/xfoxfu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xfoxfu&langs_count=8&layout=compact)](https://github.com/xfoxfu)
