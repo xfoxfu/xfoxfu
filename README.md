@@ -1,7 +1,5 @@
 Hi 👋🏻, I am Yuze FU (aka. `xfoxfu`, `coderfox`, `小傅Fox`).
 
-I am a Master's student at [Computer Software Group](https://www.csg.ci.i.u-tokyo.ac.jp/), [University of Tokyo](https://www.u-tokyo.ac.jp/). I am a beginner to _Programming Languages_ research.
-
 I am volunteering in [VATSIM P.R. China division](https://vatprc.net) as Webmaster (VATPRC8). I am making cool things related to flight simulation, such as an A-CDM and a controller simulation game. If you have any interests, please reach out to me!
 
 I occassionally write codes on my own interest.
